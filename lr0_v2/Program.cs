@@ -35,7 +35,7 @@ namespace lr0_v2
             x = x1;
             y = y1;
             // Выводим результат в консоль:
-            Console.WriteLine("x = " + x + "; " + "y = " + y);
+            Console.WriteLine("x = " + x + "; " + "b = " + y);
             Console.Read();
         }
     }

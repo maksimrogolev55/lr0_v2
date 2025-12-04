@@ -11,6 +11,7 @@ namespace lr0_v2
         static void Main(string[] args)
         {
             // Задание 2.3:
+            // Добавил комментарий
             // Задаём переменные через консоль
             Console.Write("x = ");
             float x = Convert.ToSingle(Console.ReadLine());
